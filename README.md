@@ -6,7 +6,7 @@
    <h1 align="center">ScreenSaver</h1>
 
   <p align="center">
- Simple screen sasver
+ Simple screen saver
 <br />
     <br />
     ·
